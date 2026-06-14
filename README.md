@@ -25,3 +25,4 @@ Current release target:
 ```text
 v2026.1.0
 bea-n-2026.1.0-macos-arm64.tar.gz
+```
